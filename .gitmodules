@@ -1,0 +1,6 @@
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:nicolaschicaiza/neovim.git
+[submodule "kitty"]
+	path = kitty
+	url = git@github.com:nicolaschicaiza/kitty.git
